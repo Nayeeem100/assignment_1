@@ -82,9 +82,10 @@ body{
 /* main section style start here */
 .main_conteinar{
   width: 1150px;
-  height: 1240px;
+  height: 1200px;
   margin-top: 150px;
   margin: 0 auto;
+  background-color: rgba(13, 19, 33, 0.02);
 }
 .why_conteinar{
   width: 900px;
@@ -115,6 +116,7 @@ body{
 }
 .sec_text_conteinar{
 margin-right: 200px;
+/* background-color: white; */
 }
 .sec_text_title{
   font-size: 24px;
@@ -176,5 +178,112 @@ margin-right: 200px;
   margin-bottom: 40px;
   color: rgb(13, 19, 33);
 }
+/* inspiration section style start here */
+.inspiration_conteinar{
+  width: 1150px;
+  height: 750px;
+  margin: 0 auto;
+  padding: 70px;
+}
+.ins_text_conteinar{
+  width: 80%;
+  height: 20%;
+  margin: 0 auto;
+  text-align: center;
+}
+.ins_title_text{
+  font-size: 35px;
+  font-weight: 800;
+  margin-bottom: 25px;
+  color: rgb(13, 19, 33);
+}
+.ins_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 80px;
+  color:rgb(13, 19, 33) ;
+}
+iframe{
+  width: 1150px;
+  height: 600px;
+}
+/* inspiration section style end here */
+/* current target section style start here */
+.current_conteinar{
+  width: 1000px;
+  height: 120px;
+  margin: 0 auto;
+  text-align: center;
+}
+.cur_title{
+  font-size: 35px;
+  font-weight: 800;
+  margin-bottom: 25px;
+  color: rgb(13, 19, 33);
+}
+.cur_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 50px;
+  color: rgb(13, 19, 33);
+}
+.perent{
+  width: 1150px;
+  height: 200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 60px;
+}
+.child1, .child2, .child3{
+  width: 360px;
+  height: 150px;
+  background-color: rgba(255, 76, 30, 0.05);
+  text-align: start;
+  padding: 25px;
+  margin-right: 15px;
+}
+.hcj{
+  font-size: 25px;
+  font-weight: 800px;
+  margin-bottom: 8px;
+  color: rgb(13, 19, 33);
+}
+.discription{
+  font-size: 14px;
+  font-weight: 400px;
+  margin-bottom: 15px;
+}
+.lern{
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(13, 19, 33);
+}
+.child2{
+  background-color: rgba(0, 76, 232, 0.05);
+}
+.child3{
+  background-color: rgba(255, 223, 0, 0.05);
+}
+/* current target section style end here */
+/* next target section style start here */
+ .target_conteinar{
+  width: 1150px;
+  height: 670px;
+  margin: 0 auto;
+ }
+ .child4, .child5, .child6{
+  width: 1150px;
+  height: 160px;
+  display: flex;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  align-items: center;
+  margin-bottom: 15px;
+ }
+ .rea_taxt_conteinar{
+  margin-left: 30px;
+ }
+/* next target section style end here */
 
 /* main section style end here */
