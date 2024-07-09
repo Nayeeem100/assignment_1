@@ -42,6 +42,7 @@ body{
   width: 1515Spx;
   height: 700px;
   background-image: url(../assets/Hero-bg.png);
+  margin-bottom: 130px;
 }
 .img_text_conteinar{
   width: 1010px;
@@ -53,7 +54,6 @@ body{
 .pic_conteina img{
   width: 245px;
   height: 245px;
-  /* padding-bottom: 30px; */
 }
 .text_conteinar{
   margin-top: 35px;
@@ -79,3 +79,102 @@ body{
   border-style: none;
 }
 /* cover style end here */
+/* main section style start here */
+.main_conteinar{
+  width: 1150px;
+  height: 1240px;
+  margin-top: 150px;
+  margin: 0 auto;
+}
+.why_conteinar{
+  width: 900px;
+  height: 130px;
+  margin: 0 auto;
+  text-align: center;
+}
+.why_title{
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 30px;
+  color: rgb(13, 19, 33);
+}
+.why_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 55px;
+  color: rgb(13, 19, 33);
+}
+/* sec sub conteinar style  */
+.sec_sub_conteinar{
+  width: 1000px;
+  height: 350px;
+  margin-left: 80px;
+  display: flex;
+  padding-top: 100px;
+
+}
+.sec_text_conteinar{
+margin-right: 200px;
+}
+.sec_text_title{
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: rgba(13, 19, 33, 0.7);
+
+}
+.sec_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  color: rgb(13, 19, 33);
+}
+/* therd sub conteinar style */
+.therd_sub_conteinar{
+  width: 1000px;
+  height: 350px;
+  margin-left: 55px;
+  display: flex;
+  padding-top: 10px;
+}
+.therd_text_conteinar{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.therd_text_title{
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: rgba(13, 19, 33, 0.7);
+}
+.therd_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  color: rgb(13, 19, 33);
+}
+/* forth sub conteinar */
+.forth_sub_conteinar{
+  width: 1000px;
+  height: 350px;
+  margin-left: 80px;
+  display: flex;
+  padding-top: 30px;
+}
+.forth_text_conteinar{
+  margin-right: 200px;
+}
+.forth_text_title{
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: rgba(13, 19, 33, 0.7);
+}
+.forth_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  color: rgb(13, 19, 33);
+}
+
+/* main section style end here */
