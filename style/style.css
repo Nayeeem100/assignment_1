@@ -269,7 +269,7 @@ iframe{
 /* next target section style start here */
  .target_conteinar{
   width: 1150px;
-  height: 670px;
+  height: 600px;
   margin: 0 auto;
  }
  .child4, .child5, .child6{
@@ -287,3 +287,73 @@ iframe{
 /* next target section style end here */
 
 /* main section style end here */
+/* footer section style start here */
+.footer_conteinar{
+  width: 1150px;
+  height: 320px;
+  margin: 0px auto;
+  border: 2px solid red;
+  background-image: url(../assets/handshake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.need_title{
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  padding-top: 65px;
+  margin-bottom: 15px;
+}
+.need_sub_title{
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  margin-bottom: 30px;
+}
+.submit_prent{
+  display: flex;
+  justify-content: center;
+}
+.submit_child{
+  margin-top: 23px;
+  margin-left: 10px;
+}
+.textarea{
+  width: 550px;
+  height: 60px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.submit{
+  width: 120px;
+  height: 60px;
+  border-radius: 8px;
+  margin-bottom: 500px;
+}
+/* footer section style end here */
+/* last section style start here */
+.last_conteinar{
+  width: 1515px;
+  height: 100px;
+  background-color: rgba(13, 19, 33, 0.03);
+  display: flex;
+  justify-content: space-between;
+ align-items: center;
+}
+.last_taxt_conteinar{
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 150px;
+}
+.three_icon{
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 150px;
+}
+.facebood, .git{
+  padding-right: 20px;
+}
+/* last section style end here */
